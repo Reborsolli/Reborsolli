@@ -1,13 +1,13 @@
       Olá,  Sou Renata Ferreira 👋
 
-°  📚 Aluna da Generation Brasil.           <img align='right' src="https://monophy.com/media/H3ZUIgnoHykSVP8ZBK/monophy.gif" width="350">   
+°  📚 Aluna da Generation Brasil.           <img align='right' src="https://monophy.com/media/H3ZUIgnoHykSVP8ZBK/monophy.gif" width="250">   
 
 °  💻 Desenvolvedora FullStack Java Jr.
 
 ° 🧠Analise e desenvolvimento de Sistemas.
 
-  <a href="https://github.com/reborsolli"><img height="100em" src="https://github-readme-stats.vercel.app/api?username=reborsolli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reborsolli&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/reborsolli"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=reborsolli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reborsolli&layout=compact&langs_count=7&theme=dark"/>
     
 </div> <div style="display: inline_block"><br>
 </div>  
@@ -42,9 +42,9 @@ public static void main(String args[]){
 
     me.name = "Renata Ferreira";
     me.years = 27;
-    me.nicknames = "Rê";
+    me.nickname = "Rê";
     me.applications = "Java, CSS, HTML,
-                        SQL, JavaScript, TypeScript";
+                        SQL, JavaScript";
     me.tools = "Git, VSCode, Eclipse, MySQL, 
                     Spring Boot, Heroku";
 }
