@@ -1,6 +1,6 @@
       Olá,  Sou Renata Ferreira 👋
 
-°  📚 Aluna da Generation Brasil.           <img align='right' src="https://monophy.com/media/H3ZUIgnoHykSVP8ZBK/monophy.gif" width="250">   
+°  📚 Aluna da Generation Brasil.           <img align='right' src="https://monophy.com/media/H3ZUIgnoHykSVP8ZBK/monophy.gif" width="230">   
 
 °  💻 Desenvolvedora FullStack Java Jr.
 
