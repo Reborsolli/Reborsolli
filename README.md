@@ -4,6 +4,30 @@
 
 <br> 
 
+<br> 
+
+
+```java
+public static void main(String args[]){
+
+    Dev me = new Dev();
+
+    me.name = "Renata Ferreira";
+    me.years = 29;
+    me.nickname = "Rê";
+    About.me = "
+ ° 💻 Desenvolvedora FullStack com ênfase em Angular
+ ° 📚 Estudante de Sistema para  internet   
+ ° 🎓 Formada Dev Full Stack Java  pela Generation Brasil.
+    
+}
+```
+
+<br> 
+
+<br> 
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reborsolli&show_icons=true&count_private=true&hide_border=true&title_color=F5B6F5&icon_color=F5B6F5&text_color=c9d1d9&bg_color=0d1117" alt="Alan Vasconi github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reborsolli&layout=compact&hide_border=true&title_color=F5B6F5&text_color=F5B6F5&bg_color=0d1117" />
@@ -13,17 +37,13 @@
  <img align='right' src="https://monophy.com/media/H3ZUIgnoHykSVP8ZBK/monophy.gif" width="220">   
       
 <br>
-<br> 
-
- ° 💻 Desenvolvedora FullStack com ênfase em Angular .</p>
-
- °  📚 Estudante de Sistema para  internet   
   
- °  🎓 Formada Dev Full Stack Java  pela Generation Brasil 
+ <h1> 🖱Tecnologias 💻 </h1>
 
 
-  
-#  🖱Tecnologias 💻
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
   
  | <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"> | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> | <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=white"> |<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">  | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -42,23 +62,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/erenata-borsolli-56162910b/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/reborsolli/)
 
-```java
-public static void main(String args[]){
-
-    Dev me = new Dev();
-
-    me.name = "Renata Ferreira";
-    me.years = 29;
-    me.nickname = "Rê";
-    me.applications = "Java, CSS, HTML,
-                        SQL, JavaScript, Angular";
-    me.tools = "Git, VSCode, Eclipse, MySQL, 
-                    Spring Boot";
-}
-```
 
 
- <img align='right' src="https://monophy.com/media/H3ZUIgnoHykSVP8ZBK/monophy.gif" width="220">   
 
 
 
