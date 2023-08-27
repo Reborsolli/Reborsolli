@@ -16,9 +16,9 @@ public static void main(String args[]){
     me.years = 29;
     me.nickname = "Rê";
     About.me = "
- ° 💻 Desenvolvedora FullStack com ênfase em Angular
- ° 📚 Estudante de Sistema para  internet   
- ° 🎓 Formada Dev Full Stack Java  pela Generation Brasil.
+              💻 Desenvolvedora FullStack com ênfase em Angular
+              📚 Estudante de Sistema para  internet   
+              🎓 Formada Dev Full Stack Java  pela Generation Brasil. "
     
 }
 ```
@@ -38,29 +38,25 @@ public static void main(String args[]){
       
 <br>
   
- <h1> 🖱Tecnologias 💻 </h1>
+ <h3 align="center">Tecnologias 💻 </h3></p>
 
-
+  <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-  
- | <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"> | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> | <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=white"> |<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">  | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> | <img src="https://img.shields.io/badge/Git-008000?style=for-the-badge&logo=git&logoColor=white"> |<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> | <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> |<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> | 
+<img src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40"/></p>
 
-  
-  
-  
-  ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-
-<h3 align="left">Connect with me</h3>
+ <br>
+ 
+ <br>  
+<h3 align="center">Connect with me
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:renata.ferreirapne@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/erenata-borsolli-56162910b/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/reborsolli/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/reborsolli/) </h3>
 
 
 
