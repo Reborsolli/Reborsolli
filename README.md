@@ -1,11 +1,10 @@
       Olá,  Sou Renata Ferreira 👋
 
-°  📚 Aluna da Generation Brasil.           <img align='right' src="https://monophy.com/media/H3ZUIgnoHykSVP8ZBK/monophy.gif" width="220">   
+°  📚 Formada em Sistema de internet           <img align='right' src="https://monophy.com/media/H3ZUIgnoHykSVP8ZBK/monophy.gif" width="220">   
 
-°  💻 Desenvolvedora FullStack Java Jr.
+°  💻 Desenvolvedora FullStack Java com ênfase em angula .
 
-° 🧠Analise e desenvolvimento de Sistemas.
-
+° 
   <a href="https://github.com/reborsolli"><img height="130em" src="https://github-readme-stats.vercel.app/api?username=reborsolli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reborsolli&layout=compact&langs_count=7&theme=dark"/>
     
@@ -41,12 +40,12 @@ public static void main(String args[]){
     Dev me = new Dev();
 
     me.name = "Renata Ferreira";
-    me.years = 27;
+    me.years = 29;
     me.nickname = "Rê";
     me.applications = "Java, CSS, HTML,
-                        SQL, JavaScript";
+                        SQL, JavaScript, Angular";
     me.tools = "Git, VSCode, Eclipse, MySQL, 
-                    Spring Boot, Heroku";
+                    Spring Boot";
 }
 ```
 
