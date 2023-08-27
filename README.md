@@ -2,7 +2,7 @@
 
 °  📚 Formada em Sistema de internet           <img align='right' src="https://monophy.com/media/H3ZUIgnoHykSVP8ZBK/monophy.gif" width="220">   
 
-°  💻 Desenvolvedora FullStack Java com ênfase em angula .
+°  💻 Desenvolvedora FullStack Java com ênfase em Angular .
 
 ° 
   <a href="https://github.com/reborsolli"><img height="130em" src="https://github-readme-stats.vercel.app/api?username=reborsolli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
